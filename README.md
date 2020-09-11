@@ -1,2 +1,4 @@
+## HINWEIS:
+Über den **Wiki**-Knopf in der Navigationsleiste gelangt man immer direkt zur Startseite des Labor-Wikis:
 
-## Über den Wiki-Knopf (halb rechts oben) gelangt man immer direkt zur Startseite des Wikis der IDeA-Labore.
+<img src="./wiki-link_in_menu_w700.png">
